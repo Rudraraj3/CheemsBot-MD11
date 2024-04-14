@@ -19,16 +19,16 @@ global.socialm = "GitHub: " //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
-global.botname = '🦄𝘼𝙉𝙅𝘼𝙉-𝐗𝐃🍁' //ur bot name
+global.botname = '✪★⃝ꪶ‎ 𝗥𝘂𝗱𝗿𝗮𝗿𝗮𝗷𖥘✪➺' //ur bot name
 global.ownernumber = '919883457657' //ur owner number
-global.ownername = '🦄𝘼𝙉𝙅𝘼𝙉-𝐗𝐃🍁' //ur owner name
+global.ownername = '✪★⃝ꪶ‎ 𝗥𝘂𝗱𝗿𝗮𝗿𝗮𝗷𖥘✪➺' //ur owner name
 global.websitex = ""
 global.wagc = ""
 global.themeemoji = '🪀'
-global.wm = "Xeon Bot Inc."
+global.wm = "✪★⃝ꪶ‎ 𝗥𝘂𝗱𝗿𝗮𝗿𝗮𝗷𖥘✪➺"
 global.botscript = '😈link debona😈khankir chele💪' //script link
 global.packname = "Sticker By"
-global.author = "🦄𝘼𝙉𝙅𝘼𝙉-𝐗𝐃🍁"
+global.author = "🦄✪★⃝ꪶ‎ 𝗥𝘂𝗱𝗿𝗮𝗿𝗮𝗷𖥘✪➺🍁"
 global.creator = "919883457657@s.whatsapp.net"
 global.xprefix = '.'
 global.premium = ["919883457657"] // Premium User
